@@ -1,6 +1,6 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Jay</h2>
+<h2>👽 Hey there, welcome to my planet.</h2>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Jay -->
+<!-- ## &nbsp;I'm Jay -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
