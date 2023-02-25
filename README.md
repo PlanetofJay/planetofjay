@@ -1,4 +1,4 @@
-<h2>👽 Hey there, welcome to my planet.</h2>
+<h2>👽 Hey there, welcome to the planet of Jay.</h2>
 
 <!-- ## &nbsp;I'm Jay -->
 
