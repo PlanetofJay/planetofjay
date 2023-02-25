@@ -2,7 +2,7 @@
 
 <!-- ## &nbsp;I'm Jay -->
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;About Me &nbsp;
 
 🎓 &nbsp;I'm currently majoring in Internet applications and Web development at Fanshawe college in London, ON, Canada.\
 💡 &nbsp;I'm passionate about exploring new technologies and develop software solutions.\
