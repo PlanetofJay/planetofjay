@@ -2,7 +2,7 @@
 
 <!-- ## &nbsp;I'm Jay -->
 
-### 👨🏻‍💻 &nbsp;About Me &nbsp;
+### 👨🏻‍💻 &nbsp;Who are you?
 
 🎓 &nbsp;I'm currently majoring in Internet applications and Web development at Fanshawe college in London, ON, Canada.\
 💡 &nbsp;I'm passionate about exploring new technologies and develop software solutions.\
@@ -10,7 +10,7 @@
 
 <img alt="Night Coding" src="./assets/Night-Coding.gif" align="right"/>
 
-### 🛠 &nbsp;Skills
+### 🛠 &nbsp;What do you have?
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
