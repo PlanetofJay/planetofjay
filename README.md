@@ -4,7 +4,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🎓 &nbsp;I'm currently majoring in Internet applications and Web development at Fanshawe College in London, ON, Canada.\
+🎓 &nbsp;I'm currently majoring in Internet applications and Web development at Fanshawe college in London, ON, Canada.\
 💡 &nbsp;I'm passionate about exploring new technologies and develop software solutions.\
 ✉️ &nbsp;You can shoot me an email at jae44dv@gmail.com. I'll try to respond as soon as I can.
 
