@@ -23,7 +23,3 @@
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![XD](https://img.shields.io/badge/-XD-05122A?style=flat&logo=adobe-xd)
-
-### 📍 &nbsp;What else?
-
-🦉 &nbsp;I'm a night owl but also an early bird. I do both. So hire me.
