@@ -5,7 +5,7 @@
 ### 👨🏻‍💻 &nbsp;About me
 
 🎓 &nbsp;I'm currently majoring in Internet applications and Web development at Fanshawe College.\
-💡 &nbsp;I'm passionate about exploring new technologies and develop software solutions.\
+💡 &nbsp;I'm passionate about exploring new technologies and develop my own skills.\
 ✉️ &nbsp;You can shoot me an email at jae44dv@gmail.com. I'll try to respond as soon as I can.
 
 <img alt="Night Coding" src="./assets/Night-Coding.gif" align="right"/>
